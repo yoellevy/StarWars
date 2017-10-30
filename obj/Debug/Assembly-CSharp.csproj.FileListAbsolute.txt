@@ -26,7 +26,7 @@ C:\Users\Yoel\Desktop\StarWars\Temp\bin\Debug\nunit.framework.xml
 C:\Users\Yoel\Desktop\StarWars\Temp\bin\Debug\UnityEngine.Analytics.xml
 C:\Users\Yoel\Desktop\StarWars\Temp\bin\Debug\UnityEngine.HoloLens.xml
 C:\Users\Yoel\Desktop\StarWars\Temp\bin\Debug\UnityEngine.VR.xml
-C:\Users\Yoel\Desktop\StarWars\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Yoel\Desktop\StarWars\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\Users\Yoel\Desktop\StarWars\obj\Debug\Assembly-CSharp.dll
 C:\Users\Yoel\Desktop\StarWars\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Yoel\Desktop\StarWars\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

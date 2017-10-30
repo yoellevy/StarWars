@@ -105,8 +105,10 @@
      <Compile Include="Assets\Scripts\starwars\brains\PlayerBrain.cs" />
      <Compile Include="Assets\Scripts\starwars\brains\SnakeBrain.cs" />
      <Compile Include="Assets\Scripts\starwars\brains\SpaceshipBrain.cs" />
+     <Compile Include="Assets\Scripts\starwars\brains\TickBrain.cs" />
      <Compile Include="Assets\Scripts\starwars\brains\TwisterBrain.cs" />
      <Compile Include="Assets\Scripts\starwars\brains\UnderStressSpaceShipBrain.cs" />
+     <Compile Include="Assets\TickBrain.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
